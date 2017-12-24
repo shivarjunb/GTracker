@@ -4,8 +4,13 @@
     <Jar>C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\lp\0\jl\formsviewgroup.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
+<<<<<<< HEAD
+    <ResolvedResourceDirectory>C:\Users\Shiva\Documents\GitHub\GoPlecs.GTracker\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Shiva\Documents\GitHub\GoPlecs.GTracker\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+=======
     <ResolvedResourceDirectory>C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\lp\13\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
+>>>>>>> 7d2153577ac5819fa6b585f2506ee991ab5dea65
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\lp\13\jl\assets</ResolvedAssetDirectory>
@@ -13,7 +18,12 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
+<<<<<<< HEAD
+    <ResolvedResourceDirectoryStamp>C:\Users\Shiva\Documents\GitHub\GoPlecs.GTracker\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Shiva\Documents\GitHub\GoPlecs.GTracker\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+=======
     <ResolvedResourceDirectoryStamp>C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\lp\13.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
+>>>>>>> 7d2153577ac5819fa6b585f2506ee991ab5dea65
   </ResolvedResourceDirectoryStamps>
 </Paths>
