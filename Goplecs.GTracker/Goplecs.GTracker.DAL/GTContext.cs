@@ -18,6 +18,7 @@ namespace Goplecs.GTracker.DAL
 
         //Define entity to use model as table
         public  DbSet<User> Users { get; set; }
+        public DbSet<GroceryItem> GroceryItems { get; set; }
 
         //prevents table names from being pluralized.
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
