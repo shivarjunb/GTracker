@@ -13,6 +13,7 @@ namespace Goplecs.GTracker.DAL
         //"GTContext" name of connection string on App.Config
         public GTContext():base("GTContext")
         {
+            this.Configuration.LazyLoadingEnabled = false;
 
         }
 

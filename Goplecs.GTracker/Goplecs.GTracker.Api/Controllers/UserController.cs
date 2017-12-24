@@ -18,6 +18,8 @@ namespace Goplecs.GTracker.Api.Controllers
             {
                var a =  Context.Users.ToList();
                 return a;
+               
+
             }
         }
 

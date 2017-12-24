@@ -92,3 +92,11 @@ C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Gople
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\res\values\styles.xml
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\R.cs.flag
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\uploadflags.txt
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\bin\Debug\Goplecs.GTracker.dll.mdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\bin\Debug\Goplecs.GTracker.Android.dll.mdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\android\assets\Goplecs.GTracker.Android.dll.mdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\android\assets\Goplecs.GTracker.dll.mdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

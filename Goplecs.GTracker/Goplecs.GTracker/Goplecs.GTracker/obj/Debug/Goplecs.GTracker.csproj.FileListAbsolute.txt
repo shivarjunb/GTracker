@@ -30,3 +30,5 @@ C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Gople
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.App.xaml.g.cs
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.dll
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.pdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.MainPageMaster.xaml.g.cs
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.MainPageDetail.xaml.g.cs
