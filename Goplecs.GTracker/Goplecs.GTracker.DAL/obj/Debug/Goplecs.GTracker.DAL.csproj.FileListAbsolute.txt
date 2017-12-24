@@ -11,3 +11,16 @@ C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\b
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.Migrations.InitialMigration.resources
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.csproj.GenerateResource.Cache
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\Goplecs.GTracker.DAL.dll.config
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\Goplecs.GTracker.DAL.dll
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\Goplecs.GTracker.DAL.pdb
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.Migrations.InitialMigration.resources
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.csproj.GenerateResource.Cache
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.dll
+C:\Users\Shiva\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.DAL\obj\Debug\Goplecs.GTracker.DAL.pdb
