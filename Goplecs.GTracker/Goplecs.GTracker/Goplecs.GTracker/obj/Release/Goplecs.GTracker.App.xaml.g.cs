@@ -11,8 +11,8 @@
 namespace Goplecs.GTracker {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ashut\\Source\\Repos\\GTracker\\Goplecs.GTracker\\Goplecs.GTracker\\Goplecs.GT" +
-        "racker\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Shiva\\GitHub\\GTracker\\Goplecs.GTracker\\Goplecs.GTracker\\Goplecs.GTracker" +
+        "\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

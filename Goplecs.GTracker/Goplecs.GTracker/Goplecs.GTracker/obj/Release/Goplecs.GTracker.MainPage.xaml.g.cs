@@ -11,8 +11,8 @@
 namespace Goplecs.GTracker {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ashut\\Source\\Repos\\GTracker\\Goplecs.GTracker\\Goplecs.GTracker\\Goplecs.GT" +
-        "racker\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Shiva\\GitHub\\GTracker\\Goplecs.GTracker\\Goplecs.GTracker\\Goplecs.GTracker" +
+        "\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
