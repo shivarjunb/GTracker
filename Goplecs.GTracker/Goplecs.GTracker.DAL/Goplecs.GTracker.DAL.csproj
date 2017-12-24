@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="GroceryItem.cs" />
     <Compile Include="GTContext.cs" />
     <Compile Include="Migrations\201712240411412_InitialMigration.cs" />
     <Compile Include="Migrations\201712240411412_InitialMigration.Designer.cs">
@@ -58,6 +59,8 @@
       <DependentUpon>201712241644076_addedPhotocolumn.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Grocery.cs" />
+    <Compile Include="Models\Transaction.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -2,3 +2,9 @@
 *.ide
 *.lock
 *.cache
+Goplecs.GTracker/Goplecs.GTracker.Api.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Goplecs.GTracker/Goplecs.GTracker.Api.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Goplecs.GTracker/Goplecs.GTracker.Api.Tests/obj/Debug/Goplecs.GTracker.Api.Tests.csproj.CoreCompileInputs.cache
+Goplecs.GTracker/Goplecs.GTracker.Api/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+*.config
