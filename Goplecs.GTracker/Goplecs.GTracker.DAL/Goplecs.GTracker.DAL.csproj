@@ -59,7 +59,10 @@
       <DependentUpon>201712241644076_addedPhotocolumn.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+<<<<<<< HEAD
+=======
 
+>>>>>>> 3744b2068e71d8e4ed2996e0a852ee5242d0341d
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

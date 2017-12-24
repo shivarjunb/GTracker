@@ -18,3 +18,7 @@ AndroidUseLatestPlatformSdk=true
 TargetFrameworkVersion=v6.0
 AndroidCreatePackagePerAbi=
 OS=Windows_NT
+<<<<<<< HEAD
+DesignTimeBuild=true
+=======
+>>>>>>> 3744b2068e71d8e4ed2996e0a852ee5242d0341d
