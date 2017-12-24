@@ -16,14 +16,17 @@ namespace Goplecs.GTracker.Api.Controllers
         }
 
         // GET api/values/5
+        [ActionName("GetById")]
         public string Get(int id)
         {
             return "value";
         }
 
         // POST api/values
+
         public void Post([FromBody]string value)
         {
+            var a = "avalue";
         }
 
         // PUT api/values/5
