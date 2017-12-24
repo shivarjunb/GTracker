@@ -286,3 +286,10 @@ C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\o
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\obj\Debug\Goplecs.GTracker.Api.csproj.CoreCompileInputs.cache
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\obj\Debug\Goplecs.GTracker.Api.dll
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\obj\Debug\Goplecs.GTracker.Api.pdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\bin\EntityFramework.dll
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\bin\Goplecs.GTracker.DAL.dll
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\bin\Goplecs.GTracker.DAL.pdb
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\bin\Goplecs.GTracker.DAL.dll.config
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\bin\EntityFramework.xml
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker.Api\bin\EntityFramework.SqlServer.xml

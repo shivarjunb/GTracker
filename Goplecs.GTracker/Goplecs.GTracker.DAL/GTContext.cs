@@ -8,7 +8,7 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace Goplecs.GTracker.DAL
 {
-    class GTContext : DbContext
+    public class GTContext : DbContext
     {
         //"GTContext" name of connection string on App.Config
         public GTContext():base("GTContext")

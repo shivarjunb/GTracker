@@ -8,6 +8,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goplecs.GTracker", "Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker.csproj", "{EC38237B-A48C-47CC-9BB8-B8515CE1A757}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goplecs.GTracker.Api", "Goplecs.GTracker.Api\Goplecs.GTracker.Api.csproj", "{22A6D7AC-D6A6-4B84-AED6-82B3D90CC715}"
+	ProjectSection(ProjectDependencies) = postProject
+		{74547D65-5A4A-4536-B5BE-3A256A83721E} = {74547D65-5A4A-4536-B5BE-3A256A83721E}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goplecs.GTracker.Api.Tests", "Goplecs.GTracker.Api.Tests\Goplecs.GTracker.Api.Tests.csproj", "{86A6599C-C59A-4209-993D-A2C4D6127247}"
 EndProject
