@@ -30,6 +30,7 @@ C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Gople
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.App.xaml.g.cs
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.dll
 C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.pdb
+<<<<<<< HEAD
 C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\bin\Debug\Goplecs.GTracker.dll
 C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\bin\Debug\Goplecs.GTracker.pdb
 C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\bin\Debug\Xamarin.Forms.Core.dll
@@ -46,3 +47,7 @@ C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Gople
 C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.App.xaml.g.cs
 C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.dll
 C:\Users\ashut\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.pdb
+=======
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.MainPageMaster.xaml.g.cs
+C:\Users\Shiva\Documents\GitHub\GTracker\Goplecs.GTracker\Goplecs.GTracker\Goplecs.GTracker\obj\Debug\Goplecs.GTracker.MainPageDetail.xaml.g.cs
+>>>>>>> 8e028f06d14cec77cae45aca2e6772281af24a3a
