@@ -54,6 +54,10 @@
       <DependentUpon>201712240411412_InitialMigration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Category.cs" />
+    <Compile Include="Models\GroceryItem.cs" />
+    <Compile Include="Models\ItemType.cs" />
+    <Compile Include="Models\Mate.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
